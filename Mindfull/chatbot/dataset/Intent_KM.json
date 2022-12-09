@@ -1,0 +1,210 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hi",
+        "pagi",
+        "siang",
+        "sore",
+        "malam"
+      ],
+      "responses": [
+        "Hai Beatiful Human! Semoga selalu dalam keadaan amazing yah!, sahabatku ini mau tau apa aja sih tentang anxiety?",
+        "Halo Beatiful Human! Disini sahabatmu! coba cerita apa aja yang kamu alami seharian ini?",
+        "Helo Beatiful Human! You did great today! coba bisikin dong mau nanya apa?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Jangan lupa tersenyum:), ada quote buat kamu nih, Jadikan kesehatan mentalmu sebagai prioritas. !",
+        "Jangan takut yah, semangat selalu!",
+        "Kamu luar biasa, jangan lupa itu yah!",
+        "Hadapi apapun itu, jangan menyerah, dan jangan lupa untuk beristirahat kalau lelah!",
+        "Everyone loves you, ingat selalu!",
+        "Tidak apa apa untuk gagal, selalu ada kesempatan untuk mencoba"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Senang bisa membantu, sampai jumpa Beatiful Human"
+      ]
+    },
+    {
+      "tag": "penjelasan_anxiety",
+      "patterns": [
+        "Apa itu anxiety?"
+      ],
+      "responses": [
+        "Anxiety adalah perasaan yang timbul ketika kita khawatir atau takut akan sesuatu. Rasa takut dan panik adalah hal yang manusiawi. Setelah beberapa waktu, kita biasanya merasa lebih tenang dan nyaman."
+      ]
+    },
+    {
+      "tag": "penyebab_anxiety",
+      "patterns": [
+        "Apa penyebab anxiety?"
+      ],
+      "responses": [
+        "Penyebab anxiety adalah ketika menghadapi situasi yang menimbulkan stres, akan ada semacam alarm peringatan yang menyala di otak kita dan menandakan ada sesuatu yang tidak beres dan perlu kita hadapi. Supaya situasi sulit ini lekas berakhir, otak kita akan membuat kita lebih waspada, fokus hanya pada situasi itu, bahkan memompa lebih banyak darah ke kaki agar kita dapat melarikan diri."
+      ]
+    },
+    {
+      "tag": "siapa_saja_yang_terkena_anxiety",
+      "patterns": [
+        "Siapa saja yang bisa terkena anxiety??"
+      ],
+      "responses": [
+        "semua orang dapat mengalami anxiety, tanpa peduli umur, gender, kebisaan, latar belakang, pekerjaan, dan lainya."
+      ]
+    },
+    {
+      "tag": "tanda_dan_gejala_anxiety",
+      "patterns": [
+        "Apa saja tanda dan gejala anxiety?"
+      ],
+      "responses": [
+        "Terdapat gejala fisik seperti nafas terengah engah, sakit kepala, merasa kehilangan kesadaran, detak jantung cepat, tekanan darah tinggi, gelisah, gemetar, lemas pada kaki, keringat berlebihan, dan merasa panas . Untuk gejala mental dan emosi kesulitan fokus, hilang konsentrasi, merasa panik, gugup, tegang, ketakutan, merasa tidak bisa mengendalikan situasi, merasa letih dan cepat marah."
+      ]
+    },
+    {
+      "tag": "jenis_jenis_anxiety",
+      "patterns": [
+        "Apa saja jenis jenis anxiety?"
+      ],
+      "responses": [
+        "Ada enam jenis anxiety,  Agoraphobia (merasa takut berada di tempat / merasa terjebak berada di tempat yang sempit), Generalized anxiety disorder(jenis gangguan kecemasan yang bersifat neurotic (mengkhawatirkan banyak hal yang berlangsung lebih dari 6 bulan), Phobia Specific (ketakutan luar biasa terhadap suatu hal yang tidak masuk akal seperti salah satu benda, hewan, situasi, atau aktivitas tertentu), Panic disorder (kecemasan secara tiba-tiba, dan berulang kali dengan tanpa alasan yang jelas), Post Traumatic Stress Disorder (PTSD) (gangguan stress yang terjadi disebabkan karena pernah mengancam nyawa seseorang dan mengalami terjadinya bencana alam, ancaman /perang, kekerasaan seksual, dan lain sebagainya), dan Social Anxiety Disorder (Gangguan kecemasan sosial melibatkan rasa seperti diperhatikan / diawasi seseorang, yang padahal orang tersebut tidak memperhatikan Anda)."
+      ]
+    },
+    {
+      "tag": "meminimalisir_anxiety",
+      "patterns": [
+        "Bagaimana cara meminimalisir anxiety yang berlebih?"
+      ],
+      "responses": [
+        "Kelola stress dengan baik, Melakukan aktivitas pola hidup sehat, Istirahat yang cukup, Mencoba untuk lebih terbuka dengan kerabat/keluarga/teman, dan Konsultasi Kepada Ahli Psikiater."
+      ]
+    },
+    {
+      "tag": "kebiasaan_yang_dapat_mengurangi_gejala_anxiety",
+      "patterns": [
+        "Apa saja kebiasaan yang dapat mengurangi gejala anxiety?"
+      ],
+      "responses": [
+        "Mencukupi waktu tidur dan istirahat, Membatasi konsumsi kafein dan minuman beralkohol, Mengurangi stres dengan mencoba teknik relaksasi, misalnya meditasi dan yoga, Melakukan aktivitas fisik atau berolahraga secara teratur, Mencoba bertukar pikiran atau curhat dengan teman"
+      ]
+    },
+    {
+      "tag": "langkah_yang_bisa_diambil_jika_gejala_anxiety_tidak_hilang",
+      "patterns": [
+        "Apa langkah yang bisa diambil jika gejala anxiety tidak hilang?"
+      ],
+      "responses": [
+        "Jika langkah yang disarankan sudah dilakukan dan faktor pemicu anxiety juga sudah teratasi, tetapi rasa cemas belum juga hilang, sebaiknya konsultasikan ke psikiater. Untuk menentukan penyebab dan jenis gangguan kecemasan yang Anda alami, psikiater akan melakukan pemeriksaan psikologis."
+      ]
+    },
+    {
+      "tag": "dampak_terburuk_anxiety",
+      "patterns": [
+        "Apa dampak terburuk dari anxiety?"
+      ],
+      "responses": [
+        "Anxiety yang muncul akibat gangguan kecemasan lama-kelamaan berpotensi membuat penderitanya merasa depresi, ingin bunuh diri, hingga menyalahgunakan obat-obatan atau minuman beralkohol. Oleh karena itu, jika Anda mengalami rasa cemas yang berkepanjangan, sebaiknya konsultasikan lebih lanjut dengan psikiater untuk mendapatkan penanganan yang sesuai."
+      ]
+    },
+    {
+      "tag": "makanan_yang_dapat_dikonsumsi_penderita_anxiety",
+      "patterns": [
+        "Apa saja makanan yang disarankan untuk dikonsumsi penderita anxiety?"
+      ],
+      "responses": [
+        "Ikan Berlemak (salmon, mackerel, sarden, trout, dan herring, kaya akan omega-3), Telur, Cokelat Hitam, Kunyit, dan Chamomile"
+      ]
+    },
+    {
+      "tag": "anxiety_pada_anak_dan_remaja",
+      "patterns":[
+        "Bagaimana anxiety pada anak dan remaja?"
+      ],
+      "responses": [
+        "Anak dari berbagai tingkatan usia dapat merasa cemas tentang berbagai hal. Sebagian besar rasa khawatir ini adalah bagian yang alamiah dalam proses tumbuh besar, Banyak anak merasa cemas ketika masuk ke sekolah baru atau sebelum menjalani ujian. Ada pula anak yang merasa malu ketika berada di tengah orang lain.. "
+      ]
+    },
+    {
+      "tag": "membantu_anak_dan_remaja_menghadapi_anxiety",
+      "patterns":[
+        "Apa bantuan yang diberikan kepada remaja dalam menghadapi anxiety?"
+      ],
+      "responses":[
+        "Mendiskusikan apa yang dirasakan anak, Alihkan perhatian, Membangun kebiasaan sehat, Bantu anak untuk menggunakan indra-indranya, Bernapas dari perut"
+      ]
+    },
+    {
+      "tag":"kondisi_medis_pemicu_anxiety",
+      "patterns":[
+        "Apa saja kondisi medis yang dapat memicu anxiety?"
+      ],
+      "responses":[
+        "Ada banyak kondisi medis yang dapat memicu anxiety seperti penyakit jantung, diabetes, masaah tiroid, asma, iritasi usus, tumor langka yang dapat memicu produksi adrenalin atau hormon tertentu"
+      ]
+    },
+    {
+      "tag": "faktor_risiko_anxiety",
+      "patterns":[
+        "Apa saja faktor risiko yang dapat memicu anxiety"
+      ],
+      "responses":[
+        "Terdapat trauma, riwayat genetik, kepribadian tertentu, gangguan mental, penggunaan narkoba atau alkohol, dan stress karena suatu penyakit"
+      ]
+    },
+    {
+      "tag": "cara_mendiagnosis_anxiety",
+      "patterns":[
+        "Bagaimana cara mendiagnosis anxiety?"
+      ],
+      "responses":[
+        "Sebelum menjalani berbagai tes untuk mendiagnosis gangguan kecemasan, Anda pasti harus berkonsultasi mengenai kondisi kesehatan terlebih dahulu dengan dokter. Terdapat dua pengobatan utama untuk mengatasi anxiety yaitu psikoterapi dan obat obatan. Psikoterapi juga dikanal sebagai terapi bicara atau konseling psikologis yang merupakan pengobatan untuk gangguan kecemasan, dan yang paling sering dipakai adalah terapi prilaku kognitif (CBT). Terapi ini berfokus pada hubungan suatu masalah, pola pikir, dan perilaku anda. Dalam terapi ini, anda akan diminta untuk membuka diri dan bercerita tentang semua keluhan yang sedang anda hadapi kepada terapis. Anda akan diajak untuk mencari akar masalah yang ingin diselesaikan dan tujuan akhir yang ingin dicapai. Untuk obat obatan, sebaiknya dilakukan pemeriksaan terlebih dahulu ke dokter untuk mendapatkan penyembuhan yang tepat"
+      ]
+    },
+    {
+      "tag": "komplikasi_akibat_anxiety",
+      "patterns":[
+        "Apa saja kondisi medis yang dapat dipicu anxiety?"
+      ],
+      "responses":[
+        "Jika gangguan anxiety tidak segera diatasi maka akan menimbulkan komplikasi kondisi medis seperti depresi, gangguan pada sistem pencernaan, sakit kepala, nyeri kronis pada seluruh bagian tubuh, dan insomnia"
+      ]
+    },
+    {
+      "tag": "hal_yang_medukung_pengobatan_anxiety",
+      "patterns":[
+        "Apa saja hal yang membantu proses pengobatan anxiety?"
+      ],
+      "responses":[
+        "Dapat melakukan meditasi, beribadah, berolahraga, menggunakan minyak esensial, melakukan hobi, dan bercerita dengan orang yang dipercaya"
+      ]
+    }
+  ]
+}
